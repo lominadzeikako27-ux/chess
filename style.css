@@ -1,0 +1,18 @@
+.chess-board {
+  border: 2px solid rgb(73, 24, 232);
+  font-size: 40px;
+}
+
+.brown {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(191, 17, 17);
+}
+.tan {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(235, 139, 4);
+}
+.white-pieces {
+  color: rgb(13, 181, 111);
+}
